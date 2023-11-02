@@ -1,3 +1,4 @@
+![Image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/5c48d4f6d4dd8081eb48.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231102T092225Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=1e435e5a2916bfd735d0a57bc73ee990b6e03af52cbf45ac1149edcd6252b60f)
 ## 0. Regex-ing
 
 Write a function called filter_datum that returns the log message obfuscated:
